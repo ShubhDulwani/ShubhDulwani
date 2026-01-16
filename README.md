@@ -6,7 +6,6 @@
 💡 Passionate about **Machine Learning, Deep Learning, and Pattern Recognition**  
 🔨 Currently building **AI/ML projects** and enhancing my problem-solving skills  
 📧 Reach me at: **shubhdulwani@gmail.com**  
-📱 Contact: **+91-8887724665**
 
 ---
 
@@ -94,20 +93,6 @@ Analyzed social media sentiment to determine public opinion during the 2024 U.S.
 
 ---
 
-## 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=ShubhDulwani&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=ShubhDulwani&theme=radical&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhDulwani&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-
-## 🏆 GitHub Trophies:
-
-![](https://github-profile-trophy.vercel.app/?username=ShubhDulwani&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
-
 ## ✍️ Random Dev Quote:
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -119,7 +104,7 @@ Analyzed social media sentiment to determine public opinion during the 2024 U.S.
 - 🌱 Learning advanced **Deep Learning** techniques
 - 🔭 Working on **AI/ML portfolio projects**
 - 👯 Open to collaborate on **Machine Learning** and **Web Development** projects
-- 💬 Ask me about **Python, C++, Machine Learning, MERN Stack**
+- 💬 Ask me about **Python, C++, Machine Learning, data analysis **
 
 ---
 
