@@ -71,28 +71,6 @@ Analyzed social media sentiment to determine public opinion during the 2024 U.S.
 
 ---
 
-## 💼 Work Experience:
-
-### 🏢 **NASSCOM Virtual Internship** | *Google Collaboration*
-**Jun 2025 – July 2025 | Lucknow, Uttar Pradesh**
-- Selected for a prestigious national-level virtual internship
-- Gained practical exposure to industry-aligned, real-world projects
-- Enhanced technical, problem-solving, and remote collaboration skills
-- Worked with emerging technologies relevant to current industry demands
-
----
-
-## 📜 Certifications:
-
-✅ **Innovation Through Design: Think, Make, Break, Repeat** - *The University of Sydney*  
-✅ **Prepare Data for Exploration** - *Google*  
-✅ **Ask Questions to Make Data-Driven Decisions** - *Google*  
-✅ **The Fundamentals of Digital Marketing** - *Google*  
-✅ **Foundations: Data, Data, Everywhere** - *Google*  
-✅ **Data Analysis with Python** - *IBM/Coursera*
-
----
-
 ## ✍️ Random Dev Quote:
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
