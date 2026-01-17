@@ -48,6 +48,13 @@
 
 ---
 
+## 🧠 LeetCode Stats
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Shubh413?theme=nord&font=Karma&ext=activity)](https://leetcode.com/Shubh413/)
+
+---
+
+
 ## 🚀 Featured Projects:
 
 ### 🎬 [Movie Recommender System](https://github.com/ShubhDulwani/movie-recommender)
