@@ -48,11 +48,12 @@
 
 ---
 
-## 🧠 LeetCode Stats
+## 🧠 LeetCode Activity Heatmap
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Shubh413?theme=nord&font=Karma&ext=activity)](https://leetcode.com/Shubh413/)
+[![LeetCode Heatmap](https://leetcard.jacoblin.cool/Shubh413?theme=nord&ext=heatmap)](https://leetcode.com/Shubh413/)
 
 ---
+
 
 
 ## 🚀 Featured Projects:
