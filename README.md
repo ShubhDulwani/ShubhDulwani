@@ -5,7 +5,7 @@
 🎓 **B.Tech in Computer Science Engineering - AIML** | UPES, Dehradun  
 💡 Passionate about **Machine Learning, Deep Learning, and Pattern Recognition**  
 🔨 Currently building **AI/ML projects** and enhancing my problem-solving skills  
-🌐 Portfolio: **https://yournextdoordevportfolio.netlify.app/**
+🌐 Portfolio: **https://yournextdoordevportfolio.netlify.app/**  
 📧 Reach me at: **shubhdulwani@gmail.com**  
 
 ---
