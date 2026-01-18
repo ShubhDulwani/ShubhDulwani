@@ -103,7 +103,6 @@ Analyzed social media sentiment to determine public opinion during the 2024 U.S.
 
 ## 🎯 Current Focus:
 
-- 🌱 Learning advanced **Deep Learning** techniques
 - 🔭 Working on **AI/ML portfolio projects**
 - 👯 Open to collaborate on **Machine Learning** and **Web Development** projects
 - 💬 Ask me about **Python, C++, Machine Learning, data analysis **
